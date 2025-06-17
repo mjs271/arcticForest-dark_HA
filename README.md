@@ -1,3 +1,5 @@
+# ArcticForest Dark for Home Assistant
+
 [![hacs_badge][hacs-badge]][hacs-link]
 [![GitHub Release][gh-release-badge]][gh-release-link]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa-link]
@@ -9,35 +11,35 @@
 [cc-by-nc-sa-link]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge&color=%23d99838
 
-
-# ArcticForest Dark for Home Assistant
-
 A cool-toned dark theme with pleasing contrast.
 
 ## Contents
 
-- [About](#About)
-- [Images](#Images)
-- [Installation](#Installation)
-  - [HACS Installation](#HACS-Installation-Recommended)
-  - [Manual Installation](#Manual-Installation)
-- [Additional Images](#Additional-Images)
-- [License](#License)
+- [About](#about)
+- [Images](#images)
+- [Installation](#installation)
+  - [HACS Installation](#hacs-installation-recommended)
+  - [Manual Installation](#manual-installation)
+- [Additional Images](#additional-images)
+- [License](#license)
 
 ## About
 
-I started work on my collection of [***ArcticForest Dark***](https://github.com/mjs271/ArcticForest-Dark) themes when
+I started work on my collection of [***ArcticForest Dark***](https://github.com/mjs271/ArcticForest-Dark)
+themes when
 I stumbled upon [0xGlitchbyte](https://github.com/0xGlitchbyte)'s
 [Everforest Dark theme](https://github.com/0xGlitchbyte/obsidian_everforest) for
 [Obsidian](https://obsidian.md) that, as far as I can tell, appears to be based on
-[sainnhe](https://github.com/sainnhe)'s versions for [Vim](https://github.com/sainnhe/everforest) and
+[sainnhe](https://github.com/sainnhe)'s versions for
+[Vim](https://github.com/sainnhe/everforest) and
 [VS Code](https://github.com/sainnhe/everforest-vscode).
 
 So, as someone who can't leave well-enough alone, I started tinkering with it...
-As a recovering [Solarized Dark](https://ethanschoonover.com/solarized/) addict, I personally favor the
+As a recovering [Solarized Dark](https://ethanschoonover.com/solarized/) addict,
+I personally favor the
 cooler/bluer side of the spectrum.
 Hence, we have ***ArcticForest Dark***.
-After tweaking it for my daily-driver editors (Sublime Text, VS Code) and 
+After tweaking it for my daily-driver editors (Sublime Text, VS Code) and
 terminal (iTerm2), I decided it was time to give my off-hours obsession the
 same treatment...
 And here we are with the official ***ArcticForest Dark for Home Assistant***.
@@ -149,7 +151,8 @@ frontend:
   themes: !include_dir_merge_named themes
 ```
 
-Finally, see the [instructions above](#Once-the-ArcticForest-Dark-theme-is-installed) to activate the ArcticForest Dark
+Finally, see the [instructions above](#once-the-arcticforest-dark-theme-is-installed)
+to activate the ArcticForest Dark
 theme in your Home Assistant Instance.
 
 [^actually]: Technically, Home Assistant only needs the
@@ -172,7 +175,8 @@ consider that an honor and will shout it out, link to it everywhere, include
 it, or whatever else because I will probably never take the time to do so
 myself 🙂
 
-[ArcticForest Dark for Home Assistant](https://github.com/mjs271/arcticForest-dark_HA) &copy; 2025 by
+[ArcticForest Dark for Home Assistant](https://github.com/mjs271/arcticForest-dark_HA)
+&copy; 2025 by
 [mjs271](https://github.com/mjs271)
 is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
