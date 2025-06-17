@@ -1,3 +1,15 @@
+[![hacs_badge][hacs-badge]][hacs-link]
+[![GitHub Release][gh-release-badge]][gh-release-link]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa-link]
+
+[hacs-badge]: https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge
+[hacs-link]: https://github.com/hacs/integration
+[gh-release-badge]: https://img.shields.io/github/v/release/mjs271/arcticForest-dark_HA?style=for-the-badge&color=%232196f3
+[gh-release-link]: https://github.com/mjs271/arcticForest-dark_HA/releases
+[cc-by-nc-sa-link]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge&color=%23d99838
+
+
 # ArcticForest Dark for Home Assistant
 
 A cool-toned dark theme with pleasing contrast.
@@ -158,7 +170,7 @@ I'd love to see it.
 For the record, if anyone wants to take on a light-themed version, I would
 consider that an honor and will shout it out, link to it everywhere, include
 it, or whatever else because I will probably never take the time to do so
-myself :slightly_smiling_face:
+myself 🙂
 
 [ArcticForest Dark for Home Assistant](https://github.com/mjs271/arcticForest-dark_HA) &copy; 2025 by
 [mjs271](https://github.com/mjs271)
