@@ -21,6 +21,7 @@ A cool-toned dark theme with pleasing contrast.
   - [HACS Installation](#hacs-installation-recommended)
   - [Manual Installation](#manual-installation)
 - [Additional Images](#additional-images)
+  - [Alternative *Accent-color* Sub-themes](#alternative-accent-color-sub-themes)
 - [License](#license)
 
 ## About
@@ -164,6 +165,20 @@ theme in your Home Assistant Instance.
 :--------------:|:--------------:
 ![template](img/template.png) | ![dev_actions](img/dev_actions.png)
 ![addon](img/addon1.png) | ![addon](img/addon2.png)
+
+### Alternative *Accent-color* Sub-themes
+
+To address the ***very specific*** issue of color diversity on sensor card
+graphs, I have included some sub-themes that do nothing more than change the
+accent color of the theme (i.e., the orange color used for notification
+badges and to indicate the active dashboard view when editing).
+
+The intended use-case for these is to select the sub-theme on individual cards
+or sub-cards, and below are images of the included options, displayed in
+alphabetical order (the order they appear in the dropdown selector),
+column-wise, top-to-bottom, left-to-right.
+
+![alt-accent_colors](img/alt-accent_colors.png)
 
 ## License
 
