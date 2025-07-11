@@ -168,6 +168,8 @@ theme in your Home Assistant Instance.
 
 ### Alternative *Accent-color* Sub-themes
 
+##### ***(Work in Progress)***
+
 To address the ***very specific*** issue of color diversity on sensor card
 graphs, I have included some sub-themes that do nothing more than change the
 accent color of the theme (i.e., the orange color used for notification
@@ -177,6 +179,9 @@ The intended use-case for these is to select the sub-theme on individual cards
 or sub-cards, and below are images of the included options, displayed in
 alphabetical order (the order they appear in the dropdown selector),
 column-wise, top-to-bottom, left-to-right.
+
+**Note:** I don't love the fact that this results in ***every single*** alt
+profile always being displayed in the picker, so I'm looking into a workaround.
 
 ![alt-accent_colors](img/alt-accent_colors.png)
 
