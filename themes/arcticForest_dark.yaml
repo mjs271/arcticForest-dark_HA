@@ -2,7 +2,7 @@ arcticForest_dark:
 
   # TODO
   #   - [x] radio button bg is too dark
-  #   - [ ] media player bg light-gray is bad
+  #   - [ ] media player bg light-grey is bad
   #     - something about the kiosk page makes this annoying
   #   - [ ] text input field bg should be slightly lighter
   #   - [ ] (input-)dropdown bg should be same as/similar to text
@@ -379,7 +379,36 @@ arcticForest_dark:
 
 ##################
 
-# Use this on entity history plots if you don't care for the particular orange
-# color there
-arcticForest_alt:
-  accent-color: '#d5a236'
+# NOTE - Work in Progress: These are intended to be used on dashboard cards or
+# individual panels within to change up the accent color from the standard
+# My personal use-case is the line graphs on a sensor card
+arcticForest_alt-accent_blue-grey:
+  accent-color: '#607d8b'
+arcticForest_alt-accent_steel-blue:
+  accent-color: '#44739e'
+arcticForest_alt-accent_pale-blue:
+  accent-color: '#8cb9b2'
+arcticForest_alt-accent_blue:
+  accent-color: '#5392c0'
+arcticForest_alt-accent_teal:
+  accent-color: '#4db6ac'
+arcticForest_alt-accent_aqua:
+  accent-color: '#009688'
+arcticForest_alt-accent_green:
+  accent-color: '#43a047'
+arcticForest_alt-accent_dark-green:
+  accent-color: '#478667'
+arcticForest_alt-accent_purple:
+  accent-color: '#926bc7'
+arcticForest_alt-accent_deep-purple:
+  accent-color: '#6e41ab'
+arcticForest_alt-accent_violet:
+  accent-color: '#3f51b5'
+arcticForest_alt-accent_liquid-bismuth:
+  accent-color: '#d699b6'
+arcticForest_alt-accent_dark-bubblegum:
+  accent-color: '#f06292'
+arcticForest_alt-accent_salmon:
+  accent-color: '#d88382'
+arcticForest_alt-accent_clementine:
+  accent-color: '#E69875'
