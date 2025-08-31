@@ -106,6 +106,16 @@ arcticForest_dark:
   switch-unchecked-button-color: '#70889e'
   switch-unchecked-track-color: '#bdbdbd'
 
+  wa-color-danger-border-loud: '#e2436c'
+  wa-color-danger-on-normal: '#e2436c'
+#   wa-color-danger-fill-loud: '#a55671'
+#   wa-color-danger-on-quiet: '#a55671'
+#   wa-color-danger-border-quiet: '#c66887'
+#   wa-color-danger-border-normal: '#da85a0'
+#   wa-color-danger-fill-normal: '#e3a8b9'
+#   wa-color-danger-fill-quiet: '#edcad3'
+#   wa-color-danger-on-loud: '#f8eaee'
+
   input-disabled-fill-color: '#2196f3'
   input-disabled-ink-color: '#879189'
   input-disabled-line-color: '#879189'
@@ -382,33 +392,33 @@ arcticForest_dark:
 # NOTE - Work in Progress: These are intended to be used on dashboard cards or
 # individual panels within to change up the accent color from the standard
 # My personal use-case is the line graphs on a sensor card
-arcticForest_alt-accent_blue-grey:
+arcticForest_dark_alt-accent_blue-grey:
   accent-color: '#607d8b'
-arcticForest_alt-accent_steel-blue:
+arcticForest_dark_alt-accent_steel-blue:
   accent-color: '#44739e'
-arcticForest_alt-accent_pale-blue:
+arcticForest_dark_alt-accent_pale-blue:
   accent-color: '#8cb9b2'
-arcticForest_alt-accent_blue:
+arcticForest_dark_alt-accent_blue:
   accent-color: '#5392c0'
-arcticForest_alt-accent_teal:
+arcticForest_dark_alt-accent_teal:
   accent-color: '#4db6ac'
-arcticForest_alt-accent_aqua:
+arcticForest_dark_alt-accent_aqua:
   accent-color: '#009688'
-arcticForest_alt-accent_green:
+arcticForest_dark_alt-accent_green:
   accent-color: '#43a047'
-arcticForest_alt-accent_dark-green:
+arcticForest_dark_alt-accent_dark-green:
   accent-color: '#478667'
-arcticForest_alt-accent_purple:
+arcticForest_dark_alt-accent_purple:
   accent-color: '#926bc7'
-arcticForest_alt-accent_deep-purple:
+arcticForest_dark_alt-accent_deep-purple:
   accent-color: '#6e41ab'
-arcticForest_alt-accent_violet:
+arcticForest_dark_alt-accent_violet:
   accent-color: '#3f51b5'
-arcticForest_alt-accent_liquid-bismuth:
+arcticForest_dark_alt-accent_liquid-bismuth:
   accent-color: '#d699b6'
-arcticForest_alt-accent_dark-bubblegum:
+arcticForest_dark_alt-accent_dark-bubblegum:
   accent-color: '#f06292'
-arcticForest_alt-accent_salmon:
+arcticForest_dark_alt-accent_salmon:
   accent-color: '#d88382'
-arcticForest_alt-accent_clementine:
+arcticForest_dark_alt-accent_clementine:
   accent-color: '#E69875'
