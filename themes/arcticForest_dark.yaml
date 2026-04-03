@@ -1,16 +1,9 @@
 arcticForest_dark:
 
   # TODO
-  #   - [x] radio button bg is too dark
-  #   - [ ] media player bg light-grey is bad
-  #     - something about the kiosk page makes this annoying
-  #   - [ ] text input field bg should be slightly lighter
-  #   - [ ] (input-)dropdown bg should be same as/similar to text
-  #   - [ ] differentiate both fields btw disabled/enabled
-  #   - [ ] make both different from bg color
-  #   - [ ] make entity history plot yellow less ugly greenish
-  #   - [x] notify badge doesn't look great as orange
-  #   - [x] better red for "restart" text
+  #   - [ ] fix alt themes for plotting
+  #     - Aqua: text changes to dark/black
+  #     - Some not even registering
 
   amber-color: '#ffc107'
   black-color: '#000000'
@@ -385,6 +378,9 @@ arcticForest_dark:
   codemirror-string: '#dfa000'
   codemirror-comment: '#859289'
   codemirror-property: '#3a94c5'
+
+  ha-color-form-background: "#3e6482"
+  ha-color-form-background-hover: "#4f7ea3"
 
 
 ##################
