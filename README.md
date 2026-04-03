@@ -166,7 +166,12 @@ theme in your Home Assistant Instance.
 ![template](img/template.png) | ![dev_actions](img/dev_actions.png)
 ![addon](img/addon1.png) | ![addon](img/addon2.png)
 
-### Alternative *Accent-color* Sub-themes
+### ~~Alternative *Accent-color* Sub-themes~~
+
+**Note:** Something changed with Home Assistant since I added these, and now
+they are broken.
+I have not had the chance to get it working again, but would gladly accept the
+help if anyone happens to figure it out.
 
 ##### ***(Work in Progress)***
 
