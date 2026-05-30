@@ -1,9 +1,15 @@
 arcticForest_dark:
 
+  # refs:
+    # - https://www.home-assistant.io/integrations/frontend/#defining-themes
+    # - https://github.com/home-assistant/frontend/blob/master/src/resources/theme/color/color.globals.ts
+
   # TODO
   #   - [ ] fix alt themes for plotting
   #     - Aqua: text changes to dark/black
   #     - Some not even registering
+  #   - [ ] fix background for automation building-blocks, when expanded/indented
+  #     - It's not **the worst** but feels far too light/clashing
 
   amber-color: '#ffc107'
   black-color: '#000000'
@@ -382,6 +388,24 @@ arcticForest_dark:
   ha-color-form-background: "#3e6482"
   ha-color-form-background-hover: "#4f7ea3"
   ha-color-fill-primary-normal-resting: "#4d5050"
+
+  # ha-color-primary-05: '#001721'
+  # ha-color-primary-10: '#002e3e'
+  # ha-color-primary-20: '#004156'
+  # ha-color-primary-30: '#006787'
+  # ha-color-primary-40: '#009ac7'
+  # ha-color-primary-50: '#18bcf2'
+  # ha-color-primary-60: '#37c8fd'
+  # ha-color-primary-70: '#7bd4fb'
+  # ha-color-primary-80: '#b9e6fc'
+  # ha-color-primary-90: '#dff3fc'
+  # ha-color-primary-95: '#eff9fe'
+
+  # this is the gradient mentioned in the to-do about automations
+  # seems like something is goofy or overloaded because both transitions are vacuous:
+  #   color to same-color, and then to new color (fully transparent) at 100% length
+  # 3 pieces, and proceeds from ha-color-primary-95, to ha-color-primary-95, to primary-color
+  # linear-gradient(to right, rgb(239, 249, 254) 0%, rgb(239, 249, 254) 80%, rgba(83, 146, 192, 0) 100%)
 
 ##################
 
