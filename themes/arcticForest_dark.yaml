@@ -388,6 +388,9 @@ arcticForest_dark:
   ha-color-form-background: "#3e6482"
   ha-color-form-background-hover: "#4f7ea3"
   ha-color-fill-primary-normal-resting: "#4d5050"
+  ha-color-fill-neutral-quiet-hover: "#082436"
+  ha-color-fill-primary-quiet-resting: "#353b43"
+  ha-color-text-secondary: "#c4b69b"
 
   # ha-color-primary-05: '#001721'
   # ha-color-primary-10: '#002e3e'
