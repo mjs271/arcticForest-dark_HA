@@ -391,6 +391,8 @@ arcticForest_dark:
   ha-color-fill-neutral-quiet-hover: "#082436"
   ha-color-fill-primary-quiet-resting: "#353b43"
   ha-color-text-secondary: "#c4b69b"
+  ha-list-item-active-background: "#3e6482"
+  ha-color-fill-neutral-normal-hover: "#3e6482"
 
   # ha-color-primary-05: '#001721'
   # ha-color-primary-10: '#002e3e'
